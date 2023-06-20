@@ -1,2 +1,1 @@
-# vyndox.github.io
-idk
+[# vyndox.github.io](https://vyndox.github.io/)
